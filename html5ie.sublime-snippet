@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+<!--[if lt IE 9]> 
+	<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>html5ie</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.html</scope> -->
+	<description>HTML5 for IE</description>
+</snippet>
