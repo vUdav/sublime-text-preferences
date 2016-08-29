@@ -5,9 +5,11 @@
 1. Скачать Sublime Text на [официальном сайте](http://www.sublimetext.com/3)
 2. Установить [Package Control](https://packagecontrol.io/installation)
 3. Переходим в папку пользовательских настроек вашей ОС:
-  ```cd %AppData%\Sublime Text 3\Packages\ - для Windows
+  ```
+cd %AppData%\Sublime Text 3\Packages\ - для Windows
 cd ~/.config/sublime-text-3/Packages/ - для Linux
-cd ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/ - для Mac```
+cd ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/ - для Mac
+```
 4. Клонируем наши настройки из репо ```git clone git@github.com:vUdav/sublime-text-preferences.git .```
 
 ## Содержимое репозитория
