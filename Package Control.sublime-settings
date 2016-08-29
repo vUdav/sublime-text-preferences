@@ -1,0 +1,22 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AutoFileName",
+		"BracketHighlighter",
+		"EditorConfig",
+		"Emmet",
+		"FakeImg Image Placeholder Snippet",
+		"Jade",
+		"JavaScriptNext - ES6 Syntax",
+		"Laravel Blade Highlighter",
+		"LESS",
+		"Package Control",
+		"PlainTasks",
+		"SideBarEnhancements",
+		"Stylus"
+	]
+}
