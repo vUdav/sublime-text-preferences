@@ -1,9 +1,13 @@
 {
+	// всегда показывать миникарту
 	"always_show_minimap_viewport": true,
+	// выделять папки жирным
 	"bold_folder_labels": true,
-	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
+	// всегда показывать пробелы и табы
 	"draw_white_space": "all",
+	// ставис приоритет для кодировки когда она не может быть определена автоматически
 	"fallback_encoding": "Cyrillic (Windows 1251)",
+	// исключаем папки видимые в сайдбаре
 	"folder_exclude_patterns":
 	[
 		".svn",
@@ -15,15 +19,23 @@
 		"build",
 		"dist"
 	],
+	// размер шрифта
 	"font_size": 12,
+	// подсвечивать строку на которой стоит курсор
 	"highlight_modified_tabs": true,
+	// игнорировать пакеты
 	"ignored_packages":
 	[
 		"Vintage"
 	],
+	// показывать кодировку файла
 	"show_encoding": true,
+	// размер табуляции
 	"tab_size": 2,
+	// вырезать пробелы в конце строки
 	"trim_trailing_white_space_on_save": true,
+	// разделители для слов
 	"word_separators": "./\\()\"'-:,.;<>~!@#$%^&*|+=[]{}`~?_",
+	// перенос строки
 	"word_wrap": true
 }
