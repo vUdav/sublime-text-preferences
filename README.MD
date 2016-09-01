@@ -8,7 +8,8 @@
     - ```cd %AppData%\Sublime Text 3\Packages\ - для Windows```
     - ```cd ~/.config/sublime-text-3/Packages/ - для Linux```
     - ```cd ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/ - для Mac```
-4. Клонируем наши настройки из репо ```git clone git@github.com:vUdav/sublime-text-preferences.git .```
+4. Переименовываем нашу текущую директорию User во что нибудь другое ```mv User User_old```
+5. Клонируем наши настройки из репо ```git clone git@github.com:vUdav/sublime-text-preferences.git User```
 
 ## Содержимое репозитория
 
